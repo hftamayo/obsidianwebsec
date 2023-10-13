@@ -24,3 +24,10 @@ parameter based access control methods
 
 ![[Pasted image 20231012154929.png]]
 
+=================
+broken access control resulting from platform misconfiguration
+===========
+
+
+![[Pasted image 20231013133828.png]]
+
