@@ -1,4 +1,4 @@
-# Pesonal Bug Bounties "
+# PortSwigger Web Security Academy "
 
-## h101 ##
+## Before starting the Repo  ##
 ![My current status at the point of starting this repo](./snapshots/starting_point.png)
